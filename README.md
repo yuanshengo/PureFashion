@@ -1,2 +1,2 @@
 # PureFashion
-the datasets of the paper CA-FashionNet
+The datasets of the paper PureFashion. You can find the data here:
